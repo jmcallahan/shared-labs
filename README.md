@@ -1,2 +1,1 @@
-# shared-labs
-A collection of prepared labs for other to use should they choose.
+# Shared Labs for others to use should they choose.
